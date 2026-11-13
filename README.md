@@ -1,8 +1,8 @@
-Aplicativo feito para auxiliar idosos a controlar os horários dos remédios feito em Dart.
 
 # Cuida+
 
-Aplicativo desenvolvido em Flutter/Dart 
+Aplicativo desenvolvido em Flutter/Dart para auxiliar idosos a controlar os horários dos remédios feito em Dart.
+
 ## Tecnologias
 - Flutter
 - Dart
